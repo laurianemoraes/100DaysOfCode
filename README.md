@@ -8,8 +8,8 @@
 #### #JavaScript30
 
 ### E cursos voltados para Desenvolvimento Web:
-- [] The Web Developer 
-- [] Next Level Week
+- [ ] The Web Developer 
+- [ ] Next Level Week
 
 
 ### Tecnologias que pretendo exercitar:
@@ -22,5 +22,5 @@
 
 Projetos Desenvolvidos 
 
-- Dia-01: HAPPY (projeto Next Level Week)
-##### [HAPPY]()
+- Dia-01: HAPPY (projeto Next Level Week) 
+[HAPPY](https://github.com/laurianemoraes/100DaysOfCode/blob/master/index.html)
