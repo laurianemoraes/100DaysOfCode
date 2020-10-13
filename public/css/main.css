@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  font-size: 62.5%; /*equivale a 10px, já que por padrão o tamanho da fonte do navegador é 16px*/
+}
+
+body {
+  height: 100vh;
+  color: white;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 400 1.8rem/1 "Nunito", sans-serif; /*agrupamento de atributos
+    /*font-size: 18px;
+    line-height: 1;
+    font-weight: 400;
+    font-family: 'Nunito', sans-serif;*/
+}
+
