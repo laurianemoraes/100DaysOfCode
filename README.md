@@ -24,3 +24,6 @@ Projetos Desenvolvidos
 
 - Dia-01: HAPPY (projeto Next Level Week) 
 [HAPPY](https://github.com/laurianemoraes/100DaysOfCode/blob/master/index.html)
+
+- Dia-02: Landing-page (página pessoal para exercitar CSS) 
+[Landing-page](https://github.com/laurianemoraes/100DaysOfCode/commit/a0449dfecf89f254027b7368299ea18c6ba9f81c)
