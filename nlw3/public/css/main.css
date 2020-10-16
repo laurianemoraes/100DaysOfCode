@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 :root {
   font-size: 62.5%; /*equivale a 10px, já que por padrão o tamanho da fonte do navegador é 16px*/
@@ -21,4 +22,3 @@ textarea {
     font-weight: 400;
     font-family: 'Nunito', sans-serif;*/
 }
-
