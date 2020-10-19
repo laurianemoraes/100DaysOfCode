@@ -28,6 +28,10 @@ aside footer {
   margin-top: 0.8rem;
 }
 
+#mapid {
+  width: 50%;
+}
+
 a.create-orphanage {
   position: absolute;
   right: 4rem; /*só funciona com o position*/
