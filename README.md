@@ -42,3 +42,13 @@ Projetos Desenvolvidos
 
 - Dia-08: página wikipedia (The Web Developer Bootcamp/forms)
   [page-orphanage](https://github.com/laurianemoraes/100DaysOfCode/commit/27a7eed0d8f315c8e01e2a47f0740fef5a535dfa)
+<<<<<<< HEAD
+=======
+  
+  - Dia-05: configuração página orfanatos (projeto Next Level Week)
+  [page-orphanage](https://github.com/laurianemoraes/100DaysOfCode/commit/27a7eed0d8f315c8e01e2a47f0740fef5a535dfa)
+  
+  
+  
+  
+>>>>>>> master
