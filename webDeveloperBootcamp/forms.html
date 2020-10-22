@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Demo</title>
+</head>
+
+<body>
+    <h1>Forms Demo</h1>
+    <form action="">
+        <p>
+            <label for="username">Insira seu nome</label>
+            <input id="username" type="text" placeholder="username" name="username">
+        </p>
+        <p>
+            <label for="password">Insira sua senha</label>
+            <input id="password" type="password" placeholder="password" name="password">
+        </p>
+        <p>
+            <label for="color">Escolha a sua cor</label>
+            <input id="color" type="color" name="color">
+        </p>
+        <p>
+            <label for="number">Insira seu nome</label>
+            <input id="number" type="number" placeholder="number" name="number">
+        </p>
+        <button>
+            enter
+        </button>
+        <!--<input type="text" placeholder="username">
+        <input type="month"> formulário para calendário
+        <input type="password"> formulário para senha
+        <input type="color"> formulário para selecionar senha !-->
+    </form>
+    <br>
+    <h3>procura no Google</h3>
+    <form action="https://www.google.com/search">
+        <input type="text" name="q">
+        <button>Google</button>
+    </form>
+    <h3>procura no Youtube</h3>
+    <form action="https://www.youtube.com/search">
+        <input type="text" name="q">
+        <button>Youtube</button>
+    </form>
+    <h2>inputs</h2>
+    <form action="/birds">
+        <input type="checkbox" name="agree_tos" id="agree">
+        <label for="agree">Concordo</label>
+        <p>
+            <label for="s">S</label>
+            <input type="radio" name="size" id="s" value="s">
+            <label for="m">M</label>
+            <input type="radio" name="size" id="m" value="m">
+            <label for="l">L</label>
+            <input type="radio" name="size" id="l" value="l">
+        </p>
+        <p>
+            <label for="size">Selecione seu tamanho</label>
+            <select name="size" id="size">
+                <option value="s">S</option>
+                <option value="m">M</option>
+                <option value="l">L</option>
+            </select>
+        </p>
+    </form>
+</body>
+
+</html>
