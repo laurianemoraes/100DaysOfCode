@@ -65,6 +65,24 @@
                 <option value="l">L</option>
             </select>
         </p>
+        <p>
+            <label for="cheese">Porções de Queijo</label>
+            <input type="range" id="cheese" min="1" max="100" name="cheese">
+        </p>
+        <p>
+            <label for="">Escreva sua dúvida</label><br>
+            <textarea name="Questions" id="questions" cols="50" rows="10"></textarea>
+        </p>
+        <h2>Required</h2>
+        <form action="/dummy">
+            <label for="first">Enter First Name</label>
+            <input type="text" name="first" id="first" required>
+            <p>
+                <label for="username">Username</label>
+                <input type="text" id="username" name="username" minlength="5" maxlength="10" required>
+            </p>
+            <button>Submit</button>
+        </form>
     </form>
 </body>
 
