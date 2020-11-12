@@ -1,3 +1,95 @@
+/*
+COLOR PALETTE
+#434852 - DARK
+#4d58de -BLUE 
+#0d5c46 - GREEN
+#8234cc - ROXO
+#cccccc - CINZA
+#8083ff - AZUL-CLARO */
+
+/* Global styles
+-------------------------------------------------*/
+
+body {
+  color: #434852;
+  margin: 0;
+  padding: 0;
+}
+
 img {
   size: 300px;
 }
+
+a {
+  color: #0d5c46;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.content-wrap {
+  width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+/* Profile
+-------------------------------------------------*/
+
+header {
+  background: #4d58de;
+  color: #f7fff7;
+}
+
+/* Projects
+-------------------------------------------------*/
+
+.projects {
+  background: #cccccc;
+}
+
+.projects a {
+}
+
+.projects .btn {
+  color: #f7fff7;
+  background: #434852;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.projects .btn:hover {
+  background: rgba(
+    67,
+    72,
+    82,
+    80%
+  ); /*ao colocar a propiedade da cor como rgb e adicionar o A, pode-se colocar uma porcentagem no último elemento para alterar a cor original*/
+}
+/* Work Experience
+-------------------------------------------------*/
+
+.work-experience {
+  background: #8083ff;
+}
+
+/* Education
+-------------------------------------------------*/
+
+/* Contact Info
+-------------------------------------------------*/
+
+footer {
+  background: #434852;
+  color: #f7fff7;
+}
+
+/*
+status
+:visited
+:focus
+:hover
+:active
+*/
